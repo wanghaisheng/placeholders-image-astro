@@ -36,7 +36,7 @@ This project makes use of Cloudflare Workers, and Cloudflare Workers Sites via W
 - `textWrap`
 	- Wrap text to fit within the image (to best ability). Will not alter font size, so especially long strings may still appear outside of the image. Defaults to `false`.
 
-Example URL: `https://images.placeholders.dev/?width=1055&height=100&text=Made%20with%20placeholders.dev&bgColor=%23f7f6f6&textColor=%236d6e71`
+Example URL: `https://placeholders.shopconna.com/?width=1055&height=100&text=Made%20with%20placeholders.dev&bgColor=%23f7f6f6&textColor=%236d6e71`
 ## Dev
 
 ### Prerequisites
